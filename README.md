@@ -1,0 +1,1 @@
+This section is a beginning of my independent after-course journey of making Flutter apps.
